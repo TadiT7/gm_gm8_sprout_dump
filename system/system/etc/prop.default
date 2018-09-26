@@ -1,0 +1,16 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.logd.kernel=true
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=2018年 09月 14日 星期五 08:56:15 CST
+ro.bootimage.build.date.utc=1536886575
+ro.bootimage.build.fingerprint=GM/GM8/GM8_sprout:8.1.0/OPM1.171019.011/411:user/release-keys
+persist.sys.usb.config=none
